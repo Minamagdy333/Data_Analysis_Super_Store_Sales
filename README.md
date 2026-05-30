@@ -26,6 +26,9 @@ The objective of this project is to analyze sales performance and customer behav
 * Sales by Shipping Mode
 * Customer Count
 * Year-over-Year Sales Growth
+# Dashboard
+![uploading_Screenshot 2026-05-30 234628.png](https://github.com/Minamagdy333/Data_Analysis_Super_Store_Sales/blob/main/Screenshot%202026-05-30%20234628.png)
+![uploading_Screenshot 2026-05-30 234646.png](https://github.com/Minamagdy333/Data_Analysis_Super_Store_Sales/blob/main/Screenshot%202026-05-30%20234646.png)
 # Insights
 * Total Sales reached $1.57M, generating $175.26K in profit with an overall Profit Margin of 11.19%.
 * Office Supplies was the highest-performing category, contributing $644K in sales and approximately 41% of total revenue.
@@ -39,6 +42,14 @@ The objective of this project is to analyze sales performance and customer behav
 * Standard Class was the dominant shipping mode, suggesting that customers prioritize cost-effective delivery options over faster shipping services.
 * The business processed approximately 3K orders and sold 22K units, achieving an Average Order Value of $521.41.
 * Despite strong sales growth and category performance, the overall Profit Margin of 11.19% indicates potential opportunities to improve profitability through pricing optimization and cost management.
+  #  Tools Used
+   - Power BI
+   - DAX
+   - Power Query
+   - ETL
+   - DATA Clean
+  
+   - ث
 
 
 
