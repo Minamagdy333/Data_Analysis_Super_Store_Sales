@@ -48,8 +48,5 @@ The objective of this project is to analyze sales performance and customer behav
    - Power Query
    - ETL
    - DATA Clean
-  
-   - ث
-
 
 
