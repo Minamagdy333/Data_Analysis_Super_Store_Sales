@@ -11,4 +11,34 @@ The objective of this project is to analyze sales performance and customer behav
 8. How do customer purchasing behaviors influence sales performance and profitability?
 # Dataset
 <a href="https://github.com/Minamagdy333/Data_Analysis_Super_Store_Sales/blob/main/SuperStore%20Sales%20DataSet.xlsx">Dataset</a>
+# KPIs
+* Total Sales
+* Total Profit
+* Profit Margin %
+* Number of Orders
+* Total Quantity Sold
+* Average Delivery Time
+* Sales by Category
+* Sales by Sub-Category
+* Sales by Region
+* Sales by State
+* Sales by Payment Method
+* Sales by Shipping Mode
+* Customer Count
+* Year-over-Year Sales Growth
+# Insights
+* Total Sales reached $1.57M, generating $175.26K in profit with an overall Profit Margin of 11.19%.
+* Office Supplies was the highest-performing category, contributing $644K in sales and approximately 41% of total revenue.
+* Category leadership shifted over time: Furniture led sales in 2019, while Office Supplies became the top-performing category in 2020.
+* Technology consistently demonstrated higher Average Order Values compared to Furniture, indicating stronger customer spending per order.
+* Phones emerged as the top-performing sub-category overall, generating $197K in sales and maintaining strong performance across multiple periods.
+* Sub-category performance changed significantly over time, with Chairs leading sales in 2019 and Binders becoming the top-selling sub-category in 2020.
+* Revenue was highly concentrated in the West region, which generated $522K in sales, while the South region recorded the lowest sales performance.
+* California was the strongest-performing state, contributing $335K in revenue and acting as the primary revenue driver for the business.
+* Cash on Delivery (COD) was the most preferred payment method, accounting for more than 42% of total sales, highlighting customer preference for payment upon delivery.
+* Standard Class was the dominant shipping mode, suggesting that customers prioritize cost-effective delivery options over faster shipping services.
+* The business processed approximately 3K orders and sold 22K units, achieving an Average Order Value of $521.41.
+* Despite strong sales growth and category performance, the overall Profit Margin of 11.19% indicates potential opportunities to improve profitability through pricing optimization and cost management.
+
+
 
